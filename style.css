@@ -1,0 +1,13 @@
+.nameAndEmail {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+}
+.e-form {
+  display:flex;
+  flex-direction: column;
+}
+
+form textarea{
+width:100%;
+}
